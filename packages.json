@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
+  "catalogRevision": "2026-08-04-three-dashboards-v2",
   "packages": [
     {
       "id": "aurora-dashboard",
