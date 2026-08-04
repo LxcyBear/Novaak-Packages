@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "aurora-dashboard",
+      "name": "Aurora Dashboard",
+      "category": "dashboards",
+      "description": "A feature-rich replacement dashboard for modified Xbox 360 consoles.",
+      "version": "",
+      "sizeBytes": 0,
+      "downloadUrl": "packages/dashboards/Aurora.zip",
+      "sha256": "",
+      "installDirectory": "",
+      "enabled": true
+    }
+  ]
+}
