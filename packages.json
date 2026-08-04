@@ -12,6 +12,30 @@
       "sha256": "",
       "installDirectory": "",
       "enabled": true
+    },
+    {
+      "id": "ingenioux-dashboard",
+      "name": "IngeniouX",
+      "category": "dashboards",
+      "description": "IngeniouX dashboard package for modified Xbox 360 consoles.",
+      "version": "",
+      "sizeBytes": 0,
+      "downloadUrl": "packages/dashboards/IngeniouX.zip",
+      "sha256": "",
+      "installDirectory": "",
+      "enabled": true
+    },
+    {
+      "id": "xexdash-dashboard",
+      "name": "XeXDash",
+      "category": "dashboards",
+      "description": "XeXDash dashboard package for modified Xbox 360 consoles.",
+      "version": "",
+      "sizeBytes": 0,
+      "downloadUrl": "packages/dashboards/XeXDash.zip",
+      "sha256": "",
+      "installDirectory": "",
+      "enabled": true
     }
   ]
 }
