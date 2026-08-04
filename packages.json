@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogRevision": "2026-08-04-expanded-catalog-v1",
+  "catalogRevision": "2026-08-04-root-files-v2",
   "packages": [
     {
       "id": "aurora-dashboard",
@@ -9,7 +9,7 @@
       "description": "Dashboard package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/dashboards/Aurora.zip",
+      "downloadUrl": "Aurora.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -21,7 +21,7 @@
       "description": "Dashboard package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/dashboards/IngeniouX.zip",
+      "downloadUrl": "IngeniouX.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -33,7 +33,7 @@
       "description": "Dashboard package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/dashboards/XeXDash.zip",
+      "downloadUrl": "XeXDash.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -45,7 +45,7 @@
       "description": "Dashboard package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/dashboards/Emerald.zip",
+      "downloadUrl": "Emerald.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -57,7 +57,7 @@
       "description": "Dashboard package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/dashboards/Xenu.zip",
+      "downloadUrl": "Xenu.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -69,7 +69,7 @@
       "description": "Dashboard package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/dashboards/Viper360.zip",
+      "downloadUrl": "Viper360.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -81,7 +81,7 @@
       "description": "Dashboard package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/dashboards/XeXLoader.zip",
+      "downloadUrl": "XeXLoader.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -93,7 +93,7 @@
       "description": "Plugin package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/plugins/hidriver360.zip",
+      "downloadUrl": "hidriver360.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -105,7 +105,7 @@
       "description": "General plugin collection for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/plugins/General-Plugins.zip",
+      "downloadUrl": "General-Plugins.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -117,7 +117,7 @@
       "description": "Plugin package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/plugins/xbPirate.zip",
+      "downloadUrl": "xbPirate.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -129,7 +129,7 @@
       "description": "Plugin package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/plugins/HvP2.zip",
+      "downloadUrl": "HvP2.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -141,7 +141,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/GOD Unlocker.zip",
+      "downloadUrl": "GOD Unlocker.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -153,7 +153,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/HDD Compat. Fixer.zip",
+      "downloadUrl": "HDD Compat. Fixer.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -165,7 +165,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/NXE2GOD.zip",
+      "downloadUrl": "NXE2GOD.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -177,7 +177,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/Simple 360 Flasher.zip",
+      "downloadUrl": "Simple 360 Flasher.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -189,7 +189,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/DashLaunch.zip",
+      "downloadUrl": "DashLaunch.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -201,7 +201,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/XNA Offline.zip",
+      "downloadUrl": "XNA Offline.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -213,7 +213,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/XM360.zip",
+      "downloadUrl": "XM360.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
@@ -225,7 +225,7 @@
       "description": "Homebrew package for modified Xbox 360 consoles.",
       "version": "",
       "sizeBytes": 0,
-      "downloadUrl": "packages/homebrew/XPG Chameleon.zip",
+      "downloadUrl": "XPG Chameleon.zip",
       "sha256": "",
       "installDirectory": "",
       "enabled": true
